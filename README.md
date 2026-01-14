@@ -2,6 +2,7 @@
 
 
 • [SQL Query – Retention Logic](retention_analysis.sql)
+
 • [Project Slides (PDF)](Advertiser_Retention_Analysis.pdf)
 
 ## Business Question:
