@@ -17,9 +17,5 @@ Conducted a data-driven analysis of new advertiser churn for a $1.5M revenue str
 - Provided leadership with a clear target for intervention. By identifying the 28-day mark as the critical retention window, the team could focus resources on keeping advertisers engaged during that first period.
 
 ## Files
-- [SQL Query – Retention Logic](retention_analysis.sql)  
-- [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/lukas.ishihara/viz/AdvertiserRetentionRateAfterFirstSale/Dashboard1)
-
-## Tools
-- PostgreSQL
-- Tableau
+- PostgreSQL - [SQL Query – Retention Logic](retention_analysis.sql)  
+- Tableau - [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/lukas.ishihara/viz/AdvertiserRetentionRateAfterFirstSale/Dashboard1)
