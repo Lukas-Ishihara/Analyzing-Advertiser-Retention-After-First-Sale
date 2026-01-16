@@ -1,3 +1,6 @@
+/* Project: Analyzing Advertiser Retention After First Sale
+Dialect: PostgreSQL */
+
 WITH add_row_number AS (
     SELECT
 	    ad_id,
@@ -86,4 +89,5 @@ SELECT
 	    100.0 * count_third_in_time / total_advertisers
 	, 2) AS percent_third_sale
 FROM count_advertisers
+
 ORDER BY year_month;
