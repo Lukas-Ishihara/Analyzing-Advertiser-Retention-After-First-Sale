@@ -4,7 +4,7 @@
 # Analyzing Advertiser Retention After First Sale
 
 ## Summary
-Conducted a data-driven analysis of new advertiser churn for a $1.5M revenue stream. By performing a deep-dive into user behavior, I identified exactly when and why advertisers were leaving the platform.
+Conducted a data-driven analysis of advertiser churn for a $1.5M GMV business. By analyzing user behavior over time, I identified the critical windows where advertisers were most likely to disengage from the platform.
 
 ## Key Highlights
 **Problem:**  
