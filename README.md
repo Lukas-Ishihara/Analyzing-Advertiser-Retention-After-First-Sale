@@ -1,5 +1,5 @@
 # _**Click image to view full slide deck (7 Slides)**_
-[![Click to view full PDF](Advertiser_Retention_Tableau.PNG)](Lukas_Ishihara_Advertiser_Retention_Analysis.pdf)  
+[![Click to view full PDF](Advertiser_Retention.PNG)](Lukas_Ishihara_Advertiser_Retention_Analysis.pdf)  
 
 # Analyzing Advertiser Retention After First Sale
 
