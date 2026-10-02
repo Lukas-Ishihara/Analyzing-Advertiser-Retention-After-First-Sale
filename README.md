@@ -7,13 +7,13 @@
 Conducted a data-driven analysis of advertiser churn for a $1.5M GMV business. By analyzing user behavior over time, I identified the critical windows where advertisers were most likely to disengage from the platform.
 
 ## Key Highlights
-**Problem:**  
+**Business Problem:**  
 - The platform was seeing a drop-off in active advertisers, but leadership didn't know the specific "pain point" where users were losing interest.
 
-**The Solution:**  
+**Solution:**  
 - I used SQL to perform a Cohort Analysis, grouping advertisers by their first sale date and tracking the rate that they were completing a timely second and third sale.
 
-**The Result:**  
+**Result:**  
 - Provided leadership with a clear target for intervention. By identifying the 28-day mark as the critical retention window, the team could focus resources on keeping advertisers engaged during that first period.
 
 ## Files
